@@ -1,0 +1,62 @@
+.nav1{
+width: 100%;
+height: 100vh;
+padding-top: 50px;
+box-sizing: border-box;
+}
+.chomo{
+    width: 1000px;
+    height: 600px;
+    background-color: rgb(82, 111, 82);
+    margin-left: 150px;
+    position: relative;
+}
+.div1{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: rgb(171, 211, 171);
+    width:500px;
+    height:600px ;
+}
+.seelo{
+    padding-top: 60px;
+    margin-left: 120px;
+}
+.life{
+    font-size: 60px;
+    color: white;
+}
+.seelo2{
+    text-align: center;
+}
+.para{
+    color: rgb(2, 46, 2);
+    font-size: 30px;
+}
+.clso{
+    box-sizing: border-box;
+    background-color: rgb(199, 199, 199);
+    width:400px;
+    height:500px ;
+
+}
+.hmm{
+    padding-left: 700px;
+    position: absolute;
+    top: 100px;
+    bottom: 70px;
+}
+.ans{
+    margin-left: 70px;
+    padding-top: 50px;
+}
+.helo{
+    color: rgb(119, 134, 119);
+    font-size: 35px;
+    font-style:italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.kali{
+    text-align: center;
+}
